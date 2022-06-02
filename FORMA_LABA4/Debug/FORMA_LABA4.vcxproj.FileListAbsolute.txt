@@ -1,0 +1,3 @@
+E:\int system\FORMA_LABA4\FORMA_LABA4\Debug\FORMA_LABA4.vcxprojAssemblyReference.cache
+E:\int system\FORMA_LABA4\FORMA_LABA4\Debug\FORMALABA4.MyForm.resources
+E:\int system\FORMA_LABA4\FORMA_LABA4\Debug\FORMA_LABA4.vcxproj.GenerateResource.cache

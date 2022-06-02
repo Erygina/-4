@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+E:\int system\FORMA_LABA4\FORMA_LABA4\MyForm.cpp(13,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+E:\int system\FORMA_LABA4\FORMA_LABA4\MyForm.cpp(338,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  FORMA_LABA4.vcxproj -> E:\int system\FORMA_LABA4\Debug\FORMA_LABA4.exe
